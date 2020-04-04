@@ -1,4 +1,4 @@
-<script type="text/javascript">
+//cnblogConfig.js
     window.cnblogsConfig = {
         GhVersions : 'v1.2.9',    //设置样式文件加载源，主题版本
         GhUserName: 'SillyCuckoo',    //设置样式文件加载源，GitHub用户名
@@ -100,6 +100,3 @@
              ['山里樵夫 Email', 'victor2015yhm@gmail.com'],
          ],
     }  //End of Config
-</script>
-<!--cnblog simpleMemory.min.js-->
-<script src="https://cdn.jsdelivr.net/gh/SillyCuckoo/Cnblogs-Theme-SimpleMemory@v1.2.8/src/script/simpleMemory.min.js"></script>
